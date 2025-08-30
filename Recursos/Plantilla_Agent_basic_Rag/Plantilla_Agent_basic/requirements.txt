@@ -1,0 +1,25 @@
+google-generativeai
+langchain
+langgraph
+fastapi
+uvicorn
+langchain_google_genai
+python-dotenv
+pymongo
+langchain-community
+faiss-cpu
+google-cloud-storage
+python-multipart
+pypdf
+dnspython
+bcrypt
+motor
+authlib
+tqdm
+langchain-core
+python-dotenv
+# para RAG local
+langchain-text-splitters
+langchain-community
+scikit-learn
+numpy

@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+# Archivos de configuración locales
+*.env
+*.local
+*.ini
+*.toml
+# Archivos de logs
+*.log
+# Configuración de IDEs
+.vscode/
+.idea/
+*.swp

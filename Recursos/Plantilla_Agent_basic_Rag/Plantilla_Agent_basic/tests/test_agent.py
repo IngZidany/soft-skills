@@ -1,1 +1,0 @@
-#Algoritmo y Aplicaciones para testear el agente.
